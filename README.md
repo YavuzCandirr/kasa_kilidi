@@ -63,6 +63,6 @@ Doğru veya yanlış girişlerde LED ve buzzer ile geri bildirim verilir ve serv
 
 ---
 
-![Arduino Kilit](kapı_kilidi/devre.png)
+![Arduino Kilit](kapi_kilidi/devre.png)
 
 
