@@ -75,7 +75,11 @@
 ---
 
 ## 🖼️ Devre Görseli
-<p align="center"> <img src="devre.png" alt="Arduino Kasa Kilidi Devre Şeması" width="500"/> <br> <i>Not: Devre şemasında servo motor gösterilmemiştir, fiziksel bağlantıyı eklemeyi unutmayın.</i> </p>
+<p align="center">
+  <img src="devre.png" alt="Arduino Kasa Kilidi Devre Şeması" width="500"/>
+  <br>
+  <i>Not: Devre şemasında servo motor gösterilmemiştir, fiziksel bağlantıyı eklemeyi unutmayın.</i>
+</p>
 
 ---
 
@@ -87,7 +91,7 @@ Dilersen geliştirip kendi sistemlerinde kullanabilir veya geliştirme yapabilir
 
 <h3 align="center">👨‍💻 Geliştirici</h3>
 <p align="center">
-  <b>Yavuz ÇANDIR</b>  
+  <b>Yavuz Candır</b>  
   <br>
   <a href="https://github.com/YavuzCandirr" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-YavuzCandirr-black?logo=github" alt="GitHub">
