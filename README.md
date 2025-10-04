@@ -84,5 +84,5 @@ LCD ekranda hem giriş hem de sonuç bilgileri gösterilir.
 
 ---
 
-✨ Hazırlayan: **Yavuz Candır**  
+✨ Hazırlayan: **Yavuz ÇANDIR**  
 📅 Proje: *Arduino Şifreli Kasa Kilidi*  
