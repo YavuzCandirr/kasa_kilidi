@@ -76,7 +76,7 @@
 
 ## 🖼️ Devre Görseli
 <p align="center">
-  <img src="devre.png" alt="Arduino Kasa Kilidi Devre Şeması" width="500"/>
+  <img src="devree.png" alt="Arduino Kasa Kilidi Devre Şeması" width="500"/>
   <br>
   <i>Not: Devre şemasında servo motor gösterilmemiştir, fiziksel bağlantıyı eklemeyi unutmayın.</i>
 </p>
