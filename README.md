@@ -1,9 +1,18 @@
-# 🔐 Arduino Kasa Kilidi Projesi
+<h1 align="center">🔐 Arduino Kasa Kilidi Projesi</h1>
 
-Bu proje, **Arduino** kullanılarak yapılmış bir **şifreli kasa kilidi sistemidir**.  
-Kullanıcı 4 haneli bir şifre girerek sistemi açabilir.  
-Doğru veya yanlış girişlerde **LED**, **buzzer** ve **LCD ekran** aracılığıyla geri bildirim verilir.  
-Ayrıca doğru şifre girildiğinde **servo motor** kasayı açar.  
+<p align="center">
+  <img src="https://img.shields.io/badge/Arduino-Uno-blue?logo=arduino" alt="Arduino">
+  <img src="https://img.shields.io/badge/Language-C++-brightgreen" alt="Language">
+  <img src="https://img.shields.io/badge/Platform-Arduino%20IDE-orange" alt="Platform">
+  <img src="https://img.shields.io/badge/License-Open%20Source-success" alt="License">
+</p>
+
+<p align="center">
+  Bu proje, <b>Arduino</b> kullanılarak yapılmış bir <b>şifreli kasa kilidi sistemidir</b>.<br>
+  Kullanıcı 4 haneli bir şifre girerek sistemi açabilir. <br>
+  Doğru veya yanlış girişlerde <b>LED</b>, <b>buzzer</b> ve <b>LCD ekran</b> ile geri bildirim verilir. <br>
+  Ayrıca doğru şifre girildiğinde <b>servo motor</b> kasayı açar. 
+</p>
 
 ---
 
@@ -11,28 +20,29 @@ Ayrıca doğru şifre girildiğinde **servo motor** kasayı açar.
 - Kullanıcı 4 haneli şifreyi girer.  
 - `#` tuşuna basıldığında şifre kontrol edilir.  
 - **Doğru şifre:**
-  - Yeşil LED yanar  
-  - Servo motor kilidi açar  
-  - Buzzer kısa sinyal verir  
+  - ✅ Yeşil LED yanar  
+  - ✅ Servo motor kilidi açar  
+  - ✅ Buzzer kısa sinyal verir  
 - **Yanlış şifre:**
-  - Kırmızı LED yanar  
-  - Buzzer uzun sinyal verir  
-- LCD ekranda şifre girişi ve sonuç görüntülenir  
+  - ❌ Kırmızı LED yanar  
+  - ❌ Buzzer uzun sinyal verir  
+- LCD ekranda şifre girişi ve sonuç gösterilir  
 
 ---
 
 ## ⚙️ Kullanılan Donanımlar
-- Arduino Uno  
-- 4x3 Tuş Takımı (Keypad)  
-- LCD Ekran (I2C 20x4)  
-- Servo Motor  
-- Buzzer  
-- LED (Kırmızı ve Yeşil)  
-- Dirençler ve jumper kablolar  
+- 🔸 Arduino Uno  
+- 🔸 4x3 Tuş Takımı (Keypad)  
+- 🔸 LCD Ekran (I2C 20x4)  
+- 🔸 Servo Motor  
+- 🔸 Buzzer  
+- 🔸 LED (Kırmızı ve Yeşil)  
+- 🔸 Dirençler ve jumper kablolar  
 
 ---
 
 ## 🔌 Bağlantılar
+
 | Bileşen | Arduino Pin |
 |----------|--------------|
 | Servo Motor | 12 |
@@ -72,8 +82,16 @@ Ayrıca doğru şifre girildiğinde **servo motor** kasayı açar.
 ---
 
 ## 📜 Lisans
-Bu proje açık kaynaklıdır. Dilersen geliştirip kendi sistemlerinde kullanabilirsin.  
+Bu proje açık kaynaklıdır.  
+Dilersen geliştirip kendi sistemlerinde kullanabilir veya geliştirme yapabilirsin.  
 
 ---
 
-👨‍💻 **Hazırlayan:** [Yavuz ÇANDIR](https://github.com/YavuzCandirr)
+<h3 align="center">👨‍💻 Geliştirici</h3>
+<p align="center">
+  <b>Yavuz ÇANDIR</b>  
+  <br>
+  <a href="https://github.com/YavuzCandirr" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-YavuzCandirr-black?logo=github" alt="GitHub">
+  </a>
+</p>
