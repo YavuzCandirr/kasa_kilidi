@@ -76,4 +76,4 @@ Bu proje açık kaynaklıdır. Dilersen geliştirip kendi sistemlerinde kullanab
 
 ---
 
-👨‍💻 **Hazırlayan:** [Yavuz Candır](https://github.com/YavuzCandirr)
+👨‍💻 **Hazırlayan:** [Yavuz ÇANDIR](https://github.com/YavuzCandirr)
